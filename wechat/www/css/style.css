@@ -1,0 +1,31 @@
+/* Empty. Add your own CSS if you like */
+#icon-left{
+	padding-left: 50px;
+}
+.ion-aperture{
+	color: #FF2800;
+}
+.ion-ios-arrow-forward:before{
+	font-size: 20px;
+	color: #ccc;
+}
+.ion-bag{
+	color: #CB0501;
+}
+.ion-ios-game-controller-b{
+	color: #F2870F;
+}
+.ion-qr-scanner{
+	color: #1985EA;
+}
+.ion-android-settings{
+	color: #1985EA;
+}
+.icon-img-right:before{
+	position: absolute;
+	right: 10px;
+	top: 22px;
+	display: block;
+    width: 32px;
+    text-align: center;
+}

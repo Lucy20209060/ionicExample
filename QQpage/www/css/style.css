@@ -1,0 +1,36 @@
+/* Empty. Add your own CSS if you like */
+.bar{
+	background-size: 0;
+}
+.active{
+	background: #f7f7f9;
+}
+.row{
+	background: #fff;
+}
+.ion-earth{
+	color: #fbd04f;
+}
+.ion-ios-location{
+	color: #f25d5d;
+}
+.ion-android-favorite{
+	color: #fbd04f;
+}
+.ion-ionic{
+	color: #f8a900;
+}
+.ion-eye{
+	color: #89d043;
+}
+
+.ion-headphone{
+	color: #31c27c;
+}
+
+.ion-person-stalker{
+	color: #2ad17b;
+}
+.ion-ios-navigate{
+	color: #f8a900;
+}

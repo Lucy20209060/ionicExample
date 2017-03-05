@@ -1,0 +1,168 @@
+{
+    "messages": [{
+        "id": 8,
+        "name": "陈林燕",
+        "pic": "img/jiashe.jpg",
+        "lastMessage": {
+            "originalTime": "2016-11-27 06:34:55",
+            "time": "",
+            "timeFrome1970": 0,
+            "content": "卢超，我换号码了，152****2836",
+            "isFromeMe": false
+        },
+        "noReadMessages": 2,
+        "showHints": true,
+        "isTop": 0,
+        "message": [{
+            "isFromeMe": false,
+            "content": "在干吗",
+            "time": "2016-11-22 08:50:22"
+        }, {
+            "isFromeMe": true,
+            "content": "挤地铁呢 鞋都快掉了",
+            "time": "2016-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "我回家了",
+            "time": "2016-11-27 06:34:55"
+        }, {
+            "isFromeMe": true,
+            "content": "我已经好久没回家了",
+            "time": "2016-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "我们医院休假",
+            "time": "2016-11-27 06:34:55"
+        }, {
+            "isFromeMe": false,
+            "content": "喝咖啡对身体好吗?",
+            "time": "2016-11-27 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "准备去丽江耍耍",
+            "time": "2016-11-27 06:34:55"
+        }, {
+            "isFromeMe": true,
+            "content": "说走就走的旅行",
+            "time": "2016-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "ok",
+            "time": "2016-11-27 06:34:55"
+        }, {
+            "isFromeMe": true,
+            "content": "呵呵呵呵",
+            "time": "2016-11-22 08:51:02"
+        }, {
+            "isFromeMe": true,
+            "content": "朋友圈帮我投投",
+            "time": "2016-11-27 06:34:55"
+        }, {
+            "isFromeMe": true,
+            "content": "不投",
+            "time": "2016-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "你别回来",
+            "time": "2016-11-27 06:34:55"
+        }, {
+            "isFromeMe": false,
+            "content": "别来我家 蹭我家的饭",
+            "time": "2015-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "哼。。",
+            "time": "2016-11-27 06:34:55"
+        }, {
+            "isFromeMe": true,
+            "content": "。。。。。",
+            "time": "2016-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "卢超，我换号码了，152****2836",
+            "time": "2016-11-27 06:34:55"
+        }]
+    }, {
+        "id": 1,
+        "name": "豆腐干",
+        "pic": "img/pic6.jpg",
+        "lastMessage": {
+            "originalTime": "2015-11-26 5:22:55",
+            "time": "",
+            "timeFrome1970": 0,
+            "content": "啥什么时候去吃饭?",
+            "isFromeMe": false
+        },
+        "noReadMessages": 5,
+        "showHints": true,
+        "isTop": 0,
+        "message": [{
+            "isFromeMe": false,
+            "content": "快快快",
+            "time": "2015-11-22 08:50:22"
+        }, {
+            "isFromeMe": true,
+            "content": "别急别急",
+            "time": "2015-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "已经错过了两次公交了",
+            "time": "2015-11-26 5:22:55"
+        }]
+    }, {
+        "id": 7,
+        "name": "潘滴滴",
+        "pic": "img/aaa.jpg",
+        "lastMessage": {
+            "originalTime": "2015-11-22 15:34:55",
+            "time": "",
+            "timeFrome1970": 0,
+            "content": "我就在惠和南街",
+            "isFromeMe": false
+        },
+        "noReadMessages": 0,
+        "showHints": false,
+        "isTop": 0,
+        "message": [{
+            "isFromeMe": false,
+            "content": "你好!",
+            "time": "2015-11-22 08:50:22"
+        }, {
+            "isFromeMe": true,
+            "content": "说人话",
+            "time": "2015-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "跟你客气还不好",
+            "time": "2015-11-22 15:34:55"
+        }]
+    }, {
+        "id": 2,
+        "name": "王振东",
+        "pic": "img/pic4.jpg",
+        "lastMessage": {
+            "originalTime": "2015-11-21 15:34:55",
+            "time": "",
+            "timeFrome1970": 0,
+            "content": "周末敲代码",
+            "isFromeMe": false
+        },
+        "noReadMessages": 20,
+        "showHints": true,
+        "isTop": 0
+    }, {
+        "id": 6,
+        "name": "老大",
+        "pic": "img/tu.jpg",
+        "lastMessage": {
+            "originalTime": "2014-10-12 15:34:55",
+            "time": "",
+            "timeFrome1970": 0,
+            "content": "好",
+            "isFromeMe": false
+        },
+        "noReadMessages": 0,
+        "showHints": false,
+        "isTop": 0
+    }]
+}
